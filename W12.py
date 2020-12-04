@@ -2,7 +2,7 @@ from datetime import datetime
 import tweepy
 import time
 
-APP_KEY = 'ahbahouicajedonnepas
+APP_KEY = 'ahbahouicajedonnepas'
 APP_SECRET = 'canonplus'
 OAUTH_TOKEN='celuinon'
 OAUTH_TOKEN_SECRET='etEncoreMoinsCeluiCiLemieuxcestdemettretesclefsdAPIdansDesVariablesdEnvironnement'
